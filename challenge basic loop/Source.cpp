@@ -5,9 +5,7 @@ int main()
 {
 	float x, y;//for input
 	float counted_num;
-	printf("insert number 1 : ");
 	scanf("%f", &x);
-	printf("insert number 2 : ");
 	scanf("%f", &y);
 	if (x < y)
 	{
